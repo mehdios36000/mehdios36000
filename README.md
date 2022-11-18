@@ -2,7 +2,7 @@
 
 I am a Computer Science enthusiast. I am passionate about Software Engineering, Cyber Security, and problem-solving. I am a self-taught programmer and I am always looking to improve my skills.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mehdi_Alami_Idrissi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdi-alami-idrissi/)]([https://www.linkedin.com/in/mehdi-hyani-aa02a11aa/](https://www.linkedin.com/in/mehdi-alami-idrissi/))
+[![Linkedin Badge](https://img.shields.io/badge/-Mehdi_Alami_Idrissi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdi-hyani-aa02a11aa/](https://www.linkedin.com/in/mehdi-alami-idrissi/))]([https://www.linkedin.com/in/mehdi-hyani-aa02a11aa/](https://www.linkedin.com/in/mehdi-alami-idrissi/))
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mehdi.alami.idrissi@outlook.com)](mailto:mehdi.alami.idrissi@outlook.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000080?style=for-the-badge&logo=About.me&logoColor=white&link=https://mehdi.software/)](https://mehdi.software/)
 
